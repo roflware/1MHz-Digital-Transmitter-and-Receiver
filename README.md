@@ -1,5 +1,7 @@
-# 1MHz-Digital-Transmitter-and-Receiver
-A custom 1MHz digital transmitter and receiver, including the schematics and wiring diagrams.
+# 1MHz Digital ASK/OOK Transmitter and Receiver
+A custom 1MHz digital ASK/OOK transmitter and receiver, including the schematics and wiring diagrams.
+
+Some key points: This needs to be at a baudrate of 100bps due to it being 1MHz and ASK/OOK for transmitting/receiving the data, and a loop antenna is required. I used an Arduino to facilitate the ASK/OOK portion, and the devices I designed to handled the modulation and demodulation of the signals.
 
 ## Transmitter Details
 Schematic and wiring diagram for the transmitter: https://easyeda.com/testuser123456/1MHz-ASK-OOK-Transmitter
