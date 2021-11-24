@@ -4,9 +4,26 @@ A custom 1MHz digital transmitter and receiver, including the schematics and wir
 ## Transmitter Details
 Schematic and wiring diagram for the transmitter: https://easyeda.com/testuser123456/1MHz-ASK-OOK-Transmitter
 
-**Build of Materials:**
-- Blah
-- 
+### Build of Materials
+- Ceramic Capacitors
+  - 1nf, C2
+  - 220pf, C3
+  - 47nf, C4
+  - 100nf, C5
+- Electrolytic Capacitor
+  - 1uf, C1
+- Header, H1
+- Antenna, J1
+- Inductor
+- 200uh, L1
+- Transistor
+  - 2N3904, Q1
+- Resistors
+  - 15kΩ, R1
+  - 5.6kΩ, R2
+  - 68Ω, R3
+
+### Pictures of Diagrams and Final Product
 
 **Transmitter Schematic:**
 
@@ -25,9 +42,11 @@ Schematic and wiring diagram for the transmitter: https://easyeda.com/testuser12
 ## Receiver Details
 Schematic and wiring diagram for the receiver: https://easyeda.com/testuser123456/1mhz-ask-ook-receiver
 
-**Build of Materials:**
+### Build of Materials
 - Blah
 - 
+
+### Pictures of Diagrams and Final Product
 
 **Receiver Schematic:**
 
