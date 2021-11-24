@@ -93,7 +93,7 @@ Schematic and wiring diagram for the receiver: https://easyeda.com/testuser12345
 
 **Received Signal Over Oscilloscope:**
 
-<img src="images/final%20success%20received%20and%20demodulated.jpg" width="30%" />
+<img src="images/final%20success%20received%20and%20demodulated.jpg" width="50%" />
 
 
 **Receiver Perma-board:**
