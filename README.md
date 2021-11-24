@@ -28,7 +28,7 @@ Schematic and wiring diagram for the transmitter: https://easyeda.com/testuser12
 
 **Transmitter Schematic:**
 
-![](images/1MHz_ASK_OOK_Transmitter_Schematic.PNG)
+<img src="images/1MHz_ASK_OOK_Transmitter_Schematic.PNG" />
 
 
 **Transmitter Wiring Diagram:**
@@ -43,12 +43,12 @@ Schematic and wiring diagram for the transmitter: https://easyeda.com/testuser12
 
 **Transmitter Perma-board:**
 
-![](images/1MHz_ASK_OOK_Transmitter_Perma_Board.jpg)
+<img src="images/1MHz_ASK_OOK_Transmitter_Perma_Board.jpg" width="50%" />
 
 
 **Transmitter PCB:**
 
-![](images/1MHz_ASK_OOK_Transmitter_PCB.jpg)
+<img src="images/1MHz_ASK_OOK_Transmitter_PCB.jpg" width="50%" />
 
 
 ## Receiver Details
@@ -93,14 +93,14 @@ Schematic and wiring diagram for the receiver: https://easyeda.com/testuser12345
 
 **Received Signal Over Oscilloscope:**
 
-![](images/final%20success%20received%20and%20demodulated.jpg)
+<img src="images/final%20success%20received%20and%20demodulated.jpg" width="30%" />
 
 
 **Receiver Perma-board:**
 
-![](images/1MHz_ASK_OOK_Receiver_Perma_Board.jpg)
+<img src="images/1MHz_ASK_OOK_Receiver_Perma_Board.jpg" width="50%" />
 
 
 **Receiver PCB:**
 
-![](images/1MHz_ASK_OOK_Receiver_PCB.jpg)
+<img src="images/1MHz_ASK_OOK_Receiver_PCB.jpg" width="50%" />
