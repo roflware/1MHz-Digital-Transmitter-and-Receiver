@@ -40,6 +40,17 @@ Schematic and wiring diagram for the transmitter: https://easyeda.com/testuser12
 
 ![](images/ltspice_1_10mhz_simulation_colpitts_oscillator.PNG)
 
+
+**Transmitter Perma-board:**
+
+![](images/1MHz_ASK_OOK_Transmitter_Perma_Board.jpg)
+
+
+**Transmitter PCB:**
+
+![](images/1MHz_ASK_OOK_Transmitter_PCB.jpg)
+
+
 ## Receiver Details
 Schematic and wiring diagram for the receiver: https://easyeda.com/testuser123456/1mhz-ask-ook-receiver
 
@@ -84,3 +95,12 @@ Schematic and wiring diagram for the receiver: https://easyeda.com/testuser12345
 
 ![](images/final%20success%20received%20and%20demodulated.jpg)
 
+
+**Receiver Perma-board:**
+
+![](images/1MHz_ASK_OOK_Receiver_Perma_Board.jpg)
+
+
+**Receiver PCB:**
+
+![](images/1MHz_ASK_OOK_Receiver_PCB.jpg)
